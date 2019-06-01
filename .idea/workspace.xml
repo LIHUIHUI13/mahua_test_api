@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a29da0d-caf1-4cd6-8ce3-92131cbcb2e3" name="Default" comment="" />
+    <list default="true" id="6a29da0d-caf1-4cd6-8ce3-92131cbcb2e3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,11 +97,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="http_request.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API_prac/common/http_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+            <state relative-caret-position="1700">
+              <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
               <folding>
                 <element signature="e#139#154#0" expanded="true" />
               </folding>
@@ -108,20 +109,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="case.log" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API_prac/log/case.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="324">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API_prac/common/logger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="650">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
                 <element signature="e#133#147#0" expanded="true" />
               </folding>
@@ -129,23 +126,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API_prac/testcases/run.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_prac/config/test.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding>
-                <element signature="e#129#144#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.conf" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/API_prac/config/test.conf">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API_prac/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="267">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -165,10 +159,12 @@
       <find>dict</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/class_0323/data.py" />
         <option value="$PROJECT_DIR$/lemon_mahua0328/email.py" />
         <option value="$PROJECT_DIR$/lemon_mahua0328/conf/__init__.py" />
         <option value="$PROJECT_DIR$/lemon_mahua0328/myemail.py" />
@@ -219,6 +215,7 @@
         <option value="$PROJECT_DIR$/API_prac/common/http_request.py" />
         <option value="$PROJECT_DIR$/API_prac/common/contants.py" />
         <option value="$PROJECT_DIR$/API_prac/testcases/run.py" />
+        <option value="$PROJECT_DIR$/API_prac/run.py" />
       </list>
     </option>
   </component>
@@ -237,8 +234,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -251,28 +247,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="mahua_test_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mahua_test_api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="mahua_test_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mahua_test_api" type="462c0819:PsiDirectoryNode" />
               <item name="API_prac" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
+              <item name="mahua_test_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mahua_test_api" type="462c0819:PsiDirectoryNode" />
               <item name="API_prac" type="462c0819:PsiDirectoryNode" />
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice_python_mahua" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice_python_mahua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,6 +328,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_python_li" />
@@ -360,6 +350,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests for test_login.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="practice_python_li" />
@@ -374,6 +367,7 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_login.LoginTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests in test_invest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="practice_python_li" />
@@ -388,6 +382,7 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_invest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="practice_python_li" />
@@ -402,6 +397,7 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests in test_register.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="practice_python_li" />
@@ -416,13 +412,14 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/API_prac/testcases/test_register.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.lemon_mahua_practice0307" />
+      <item itemvalue="Python.run" />
       <item itemvalue="Python tests.Unittests in test_login.py" />
       <item itemvalue="Python tests.Unittests in test_register.py" />
       <item itemvalue="Python tests.Unittests for test_login.LoginTest" />
-      <item itemvalue="Python.run" />
       <item itemvalue="Python tests.Unittests in test_invest.py" />
     </list>
     <recent_temporary>
@@ -446,6 +443,35 @@
       <option name="presentableId" value="Default" />
       <updated>1547479584412</updated>
     </task>
+    <task id="LOCAL-00001" summary="修改测试用例">
+      <created>1559356053253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559356053253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改测试用例--登录用例期望值修改为错误的">
+      <created>1559356504693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559356504693</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改测试用例--登录用例期望值修改为错误的">
+      <created>1559357068117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559357068118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改测试用例--登录用例期望值修改为错误的">
+      <created>1559357956484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559357956484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -490,56 +516,56 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.2167382" side_tool="true" weight="0.3309091" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7832618" weight="0.25373134" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985694" weight="0.32537314" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" visible="true" weight="0.2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4963768" visible="true" weight="0.14217253" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32636815" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4963768" visible="true" weight="0.14200793" />
       <window_info id="Structure" order="1" sideWeight="0.5036232" side_tool="true" weight="0.19957082" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32636815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7832618" weight="0.25373134" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985694" weight="0.32537314" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.6935271" visible="true" weight="0.22379604" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3286517" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.30647293" side_tool="true" visible="true" weight="0.22379604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3286517" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4963768" visible="true" weight="0.14217253" />
+      <window_info id="Structure" order="1" sideWeight="0.5036232" side_tool="true" weight="0.19957082" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7832618" visible="true" weight="0.25373134" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
-      <window_info id="Structure" order="1" sideWeight="0.5036232" side_tool="true" weight="0.19957082" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32969698" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7832618" visible="true" weight="0.25373134" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4985694" weight="0.3260606" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49284694" weight="0.3988764" />
-      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.2" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.2167382" side_tool="true" weight="0.3309091" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.3286517" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.2167382" side_tool="true" weight="0.3309091" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3297568" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,13 +574,13 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$USER_HOME$" />
     </ignored-roots>
+    <MESSAGE value="修改测试用例" />
+    <MESSAGE value="修改测试用例--登录用例期望值修改为错误的" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改测试用例--登录用例期望值修改为错误的" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -572,7 +598,6 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="59" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -585,16 +610,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/API_prac/reports/test_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#119#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_addProject.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -605,30 +620,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="462" column="8" selection-start-line="462" selection-start-column="8" selection-end-line="462" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/common/case.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="90">
-          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/log/log_output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding>
-            <element signature="e#118#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/API_prac/common/case.log" />
+    <entry file="file://$PROJECT_DIR$/API_prac/log/log_output.py" />
     <entry file="file://$PROJECT_DIR$/API_prac/common/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -656,26 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/common/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="e#133#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/common/http_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-          <folding>
-            <element signature="e#139#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -686,16 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/reports/test_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <element signature="e#119#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/reports/test_report.py" />
     <entry file="file://$PROJECT_DIR$/API_prac/common/contants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -703,20 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="77" column="42" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/log/case.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="324">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/loader.py" />
     <entry file="file://$PROJECT_DIR$/API_prac/testcases/test_recharge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -734,12 +686,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_prac/testcases/run.py">
+    <entry file="file://$PROJECT_DIR$/API_prac/testcases/run.py" />
+    <entry file="file://$PROJECT_DIR$/API_prac/common/http_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="1700">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
           <folding>
-            <element signature="e#129#144#0" expanded="true" />
+            <element signature="e#139#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/log/case.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="e#133#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -747,7 +713,14 @@
     <entry file="file://$PROJECT_DIR$/API_prac/config/test.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_prac/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
