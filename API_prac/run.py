@@ -35,8 +35,8 @@ with open(contants.report_dir + '/report.html','wb') as file:
     runner = HTMLTestRunnerNew.HTMLTestRunner(
         stream=file,
         verbosity=2,
-        title='麻花-自动化测试报告',
-        description='mahua',
+        title='web接口自动化测试报告',
+        description='web test by lihuihui',
         tester='mahua'
     )
     runner.run(discover)
